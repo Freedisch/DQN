@@ -34,7 +34,7 @@ This project implements a reinforcement learning agent using Deep Q-Learning to 
 
 ```
 
-git clone https://github.com/yourusername/DQN.git
+git clone https://github.com/freedisch/DQN.git
 cd DQN
 
 ```
@@ -67,7 +67,7 @@ python play.py
 
 ## Video Demonstration
 
-[Link to 5-minute video demonstration](https://youtu.be/your-video-link)
+[Link to 5-minute video demonstration](https://youtu.be/gFM__0xhhmg)
 
 ## Technologies Used
 
@@ -79,7 +79,7 @@ python play.py
 
 ## Author
 
-[Your Name]
+Thibaut Batale
 
 ## License
 

@@ -16,4 +16,4 @@ for episode in range(5):
     while not done:
         action = dqn.forward(state)
         state, reward, done, _ = env.step(action)
-        env.render()  # This should display the current state of the environment
+        env.render()
